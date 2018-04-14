@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 int main()
-{int n,i,t,m,rem,d=0,r=0;
-scanf("%d",&n);
+{long int n,i,t,m,rem,d=0,r=0;
+scanf("%ld",&n);
 t=n;
 m=n;
 while(n!=0)
